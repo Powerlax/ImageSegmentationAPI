@@ -2,7 +2,7 @@ from flask import Flask, request, jsonify
 import tensorflow as tf
 import numpy as np
 
-model = tf.keras.models.load_model('pets')
+model = tf.keras.models.load_model('pets.keras')
 
 app = Flask(__name__)
 
