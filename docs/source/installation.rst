@@ -30,6 +30,7 @@ After that, please clone our `repository <https://github.com/packofparts/poplib>
     ├── settings.gradle
     └── WPILib-License.md
 
-Note: This is the current installation method. We are also working on publishing POPLib as a github package, but there are several challenges with that.
+.. note::
+    This is the current installation method. We are also working on publishing POPLib as a github package, but there are several challenges with that.
 
-Now that you are finished installing POPLib, you can check out the POPLib overview to see how POPLib works and how you can use it to speed up robot programming during the competition season.
+Now that you are finished installing POPLib, you can check out the POPLib :doc:`overview` to see how POPLib works and how you can use it to speed up robot programming during the competition season.
