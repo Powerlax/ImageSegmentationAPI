@@ -17,4 +17,11 @@ Contents
 .. toctree::
 
    installation
-   api
+   overview
+   motors
+   PID
+   gyro
+   absolute encoders
+   camera
+   limelight
+   beambreak
