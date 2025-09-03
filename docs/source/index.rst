@@ -18,10 +18,4 @@ Contents
 
    installation
    overview
-   motors
-   PID
-   gyro
-   absolute encoders
-   camera
-   limelight
-   beambreak
+   api
