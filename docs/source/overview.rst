@@ -10,10 +10,4 @@ Regardless, it's important to first familiarize yourself with the "base" layer o
 
 .. toctree::
 
-    motors
-    PID
-    gyro
-    absolute encoders
-    camera
-    limelight
-    beambreak
+    base
